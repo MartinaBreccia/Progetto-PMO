@@ -1,0 +1,85 @@
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.AssemblyReference.cache
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Biglietteria.resources
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Properties.Resources.resources
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.GenerateResource.cache
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfoInputs.cache
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfo.cs
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.CoreCompileInputs.cache
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.exe
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.deps.json
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.json
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.dev.json
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\source\repos\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\source\repos\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.genruntimeconfig.cache
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.exe
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.deps.json
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.json
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.dev.json
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\source\repos\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.AssemblyReference.cache
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.Biglietteria.resources
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.Properties.Resources.resources
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.GenerateResource.cache
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfoInputs.cache
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfo.cs
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.CoreCompileInputs.cache
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\source\repos\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.genruntimeconfig.cache
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.exe
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.deps.json
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.json
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Biglietteria - Copia\bin\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.AssemblyReference.cache
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.Biglietteria.resources
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.Properties.Resources.resources
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Biglietteria - Copia\obj\Debug\netcoreapp3.1\Biglietteria.genruntimeconfig.cache
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.exe
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.deps.json
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.json
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.AssemblyReference.cache
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Biglietteria.resources
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Properties.Resources.resources
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.genruntimeconfig.cache
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.exe
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.deps.json
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.json
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.runtimeconfig.dev.json
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\bin\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.AssemblyReference.cache
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Biglietteria.resources
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.Properties.Resources.resources
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.AssemblyInfo.cs
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.dll
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.pdb
+C:\Users\Martina\Desktop\Progetto-PMO\Biglietteria\obj\Debug\netcoreapp3.1\Biglietteria.genruntimeconfig.cache

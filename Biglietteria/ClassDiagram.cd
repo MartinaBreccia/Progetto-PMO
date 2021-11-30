@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biglietteria.Builder.ConcreteBuilder">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEABAQAAAAAAAAAAAAAAAAAAAAAqAAAAAA=</HashCode>
+      <FileName>Builder\ConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Builder.CreaSettore">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\CreaSettore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biglietteria.Composite.Settore">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDABAAQQAABAAAQAAAEAAAAAAAAIAAAAAABIAAAAAAA=</HashCode>
+      <FileName>Composite\Settore.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Composite.Stadio">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BTAAAAQAAABAAAAAAAAAAAAAAAAIAAAAAABIAAAAAAA=</HashCode>
+      <FileName>Composite\Stadio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Composite.Articolo">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BTAAAAQAAABAAAAAAAAAAAAAAAAIAAAAAABIAAABAAA=</HashCode>
+      <FileName>Composite\Articolo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Controllo.ControlloCliente">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAICAAAAAAAAIAAAAEABEAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Controllo\ControlloCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biglietteria.Controllo.ControlloComboBox">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAgAAAAQAAAAAAAAAABQAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Controllo\ControlloComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biglietteria.Singleton.Scrittura">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAQABAAAAAAAA=</HashCode>
+      <FileName>Singleton\Scrittura.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Visitor.PrezzoMedio">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQQAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Visitor\PrezzoMedio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Visitor.TotalePrezzo">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQQAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Visitor\TotalePrezzo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Visitor.TotQuantita">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQQAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Visitor\TotQuantita.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biglietteria.Cliente">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAAAABAAACAAAAAAAQAAAAgEAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biglietteria.Controller">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAIAAAAAgQBAwgAAAAAgAAAABAABAIkAAIFAAA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biglietteria.Estensione">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estensione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Biglietteria.Builder.IBuilder">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAA=</HashCode>
+      <FileName>Builder\IBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biglietteria.Composite.IOrder">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDAAAAQAAABAAAAAAAAAAAAAAAAIAAAAAABIAAAAAAA=</HashCode>
+      <FileName>Composite\IOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biglietteria.Singleton.IScrittura">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Singleton\IScrittura.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biglietteria.Visitor.IVisitor">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visitor\IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biglietteria.IVisualizzaBig">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEEAAQAAQAAgFAACAAFIAQAAIQCBAAAAAAAAAAA=</HashCode>
+      <FileName>IVisualizzaBig.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

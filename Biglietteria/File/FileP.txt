@@ -1,0 +1,101 @@
+
+--------------------------------------------------------
+Ordine Finale di Carlo Rossi
+
+Totale Ordine: 150 €
+
+DATI CLIENTE :
+Nome : Carlo
+Cognome : Rossi
+Indirizzo : Via Garibaldi, 68
+Città : Roma
+Telefono : 3369874125
+
+Ordine Finale
+Milano - SanSiro
+SETTORE B
+Curva Nord
+Prezzo : 70€
+
+Torino - Allianz Stadio
+SETTORE C
+Tribuna Ubi
+Prezzo : 50€
+
+Roma - Stadio Olimpico
+SETTORE D
+Curva Sud
+Prezzo : 30€
+
+
+--------------------------------------------------------
+Ordine Finale di Giulia Verdi
+
+Totale Ordine: 160 €
+
+DATI CLIENTE :
+Nome : Giulia
+Cognome : Verdi
+Indirizzo : Via Trenni, 87
+Città : Firenze
+Telefono : 3321478965
+
+Ordine Finale
+Milano - SanSiro
+SETTORE A
+Tribuna VIP
+Prezzo : 90€
+
+Milano - SanSiro
+SETTORE B
+Curva Nord
+Prezzo : 70€
+
+
+--------------------------------------------------------
+Ordine Finale di Federico Bianchi
+
+Totale Ordine: 100 €
+
+DATI CLIENTE :
+Nome : Federico
+Cognome : Bianchi
+Indirizzo : Via Rasio, 58
+Città : Genova
+Telefono : 3357896214
+
+Ordine Finale
+Torino - Allianz Stadio
+SETTORE B
+Curva Nord
+Prezzo : 70€
+
+Torino - Allianz Stadio
+SETTORE D
+Curva Sud
+Prezzo : 30€
+
+
+--------------------------------------------------------
+Ordine Finale di Luca Fibri
+
+Totale Ordine: 120 €
+
+DATI CLIENTE :
+Nome : Luca
+Cognome : Fibri
+Indirizzo : Via Pozzo, 20
+Città : Fano
+Telefono : 3357412564
+
+Ordine Finale
+Milano - SanSiro
+SETTORE B
+Curva Nord
+Prezzo : 70€
+
+Torino - Allianz Stadio
+SETTORE C
+Tribuna Ubi
+Prezzo : 50€
+
